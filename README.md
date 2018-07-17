@@ -4,7 +4,7 @@ lexical substitution systems according to the Melamud's paper (Melamud, Oren, Om
 you need to download the  "lexsub_context_embeddings.txt" and "lexsub_word_embeddings.txt" from : www.cs.biu.ac.il/
 nlp/resources/downloads/lexsub_embeddings/  to run the code.
 
-The code is written in Python 3.6 using the foolowing modules:
+The code is written in Python 3.6 using the following modules:
 
 1- NLTK
 2-Gensim
